@@ -1,5 +1,6 @@
 # Mineria de datos
 
+## FASE 1
 [Mapa Mental 1](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Mapas/MapaMental_1_1753141.pdf)
 
 [Presentacion Outliers](https://github.com/EdgarBladimir455/FCFM/tree/master/MineriaDatos/Outliers)
@@ -9,3 +10,8 @@
 [Mapa Mental II](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Mapas/MapaMental_2_1753141.pdf)
 
 [Resumenes](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Resumenes_1753141.pdf)
+
+## FASE 2
+[Analisis de Bases de Datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Analisis%20Bases%20de%20Datos.pdf)
+
+[Ejercicios Python]
