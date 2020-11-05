@@ -14,4 +14,6 @@
 ## FASE 2
 [Analisis de Bases de Datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Analisis%20Bases%20de%20Datos.pdf)
 
-[Ejercicios Python]
+[Ejercicios Python](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Ejercicios%20Python/PythonBasico_1753141.ipynb)
+
+[Avance I Proyecto Integrador](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/Avance1-PIA_1_012.pdf)
