@@ -17,3 +17,8 @@
 [Ejercicios Python](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Ejercicios%20Python/PythonBasico_1753141.ipynb)
 
 [Avance I Proyecto Integrador](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/Avance1-PIA_1_012.pdf)
+
+Ejercicios de programación herramientas de minería de datos:
+* [Ejercicio limpieza de datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Limpieza%20de%20datos/Limpieza_datos.ipynb)
+
+* [Ejercicio visualización](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Visualizacion%20de%20datos/Visualizacion_datos.ipynb)
