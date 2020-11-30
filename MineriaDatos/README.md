@@ -22,3 +22,8 @@ Ejercicios de programación herramientas de minería de datos:
 * [P1 - Manipulación de datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Limpieza%20de%20datos/Limpieza_datos.ipynb)
 
 * [P2 - Visualización de datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Visualizacion%20de%20datos/Visualizacion_datos.ipynb)
+
+## FASE 3
+[Segundo avance del PIA](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/AvancePIA_II_012_1.ipynb)
+
+[Poster Final](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/PIA_01_012.pdf)
